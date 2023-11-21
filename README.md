@@ -1,4 +1,4 @@
-Sono un giovane Jr. full-stack web developer con una forte passione per la creazione di siti web. 
+Sono un giovane Jr.front-end developer con una forte passione per la creazione di siti web. 
 Durante il mio percorso di studi ho acquisito conoscenze in HTML, CSS e JavaScript. 
 Sono molto soddisfatto dell'esperienza accumulata finora e sono determinato a continuare ad apprendere e migliorare. 
 Sono una persona che ama mettersi in gioco e affrontare le sfide, convinto che lo sviluppo web sia il mio futuro professionale.
